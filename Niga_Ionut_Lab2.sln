@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niga_Ionut_Lab2", "Niga_Ionut_Lab2.csproj", "{B1ADA98C-5693-4E76-849B-E50404258BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1ADA98C-5693-4E76-849B-E50404258BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ADA98C-5693-4E76-849B-E50404258BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ADA98C-5693-4E76-849B-E50404258BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ADA98C-5693-4E76-849B-E50404258BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70959F02-F321-4E04-BE2C-F5FB1D0245CD}
+	EndGlobalSection
+EndGlobal
