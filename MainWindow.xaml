@@ -33,7 +33,7 @@
             <Canvas Margin="10,34,260,-34">
 
                 <Label x:Name="lblLemonFilled" Content="Lemon" Canvas.Top="-25" RenderTransformOrigin="0.832,0.542" Canvas.Left="-1"/>
-                <TextBox x:Name="txtLemonFilled_" Canvas.Left="104" Canvas.Top="-17" Text="0" TextWrapping="Wrap" Width="120" IsReadOnly="True"/>
+                <TextBox x:Name="txtLemonFilled" Canvas.Left="104" Canvas.Top="-17" Text="0" TextWrapping="Wrap" Width="120" IsReadOnly="True"/>
                 <Label x:Name="lblChocolateFilled" Content="Chocolate" RenderTransformOrigin="0.168,0.619" Canvas.Top="6" Canvas.Left="-1"/>
                 <TextBox x:Name="txtChocolateFilled" Canvas.Left="104" Canvas.Top="12" Text="0" TextWrapping="Wrap" Width="120" IsReadOnly="True"/>
                 <Label x:Name="lblVanillaFilled" Content="Vanilla" Canvas.Top="35" RenderTransformOrigin="2.555,-5.197" Canvas.Left="-1"/>

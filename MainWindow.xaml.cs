@@ -66,9 +66,22 @@ namespace Niga_Ionut_Lab2
                     mRaisedSugar++;
                     txtSugarRaised.Text = mRaisedSugar.ToString();
                     break;
-                    //...
-                    // Tema de laborator – completam cu instructiunile necesare
-            }
+
+                case DoughnutType.Lemon:
+                     mFilledLemon++;
+                    txtLemonFilled.Text = mFilledLemon.ToString();
+                    break;
+                case DoughnutType.Chocolate:
+                    mFilledChocolate++;
+                    txtChocolateFilled.Text = mFilledChocolate.ToString();
+                    break;
+                case DoughnutType.Vanilla:
+                    mFilledVanilla++;
+                    txtVanillaFilled.Text = mFilledVanilla.ToString();
+                    break;
+        //...
+        // Tema de laborator – completam cu instructiunile necesare
+    }
         }
 
         private void stopToolStripMenuItem_Click(object sender, RoutedEventArgs e)
